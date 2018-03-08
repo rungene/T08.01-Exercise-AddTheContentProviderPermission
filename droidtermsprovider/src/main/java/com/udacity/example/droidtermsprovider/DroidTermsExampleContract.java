@@ -25,6 +25,7 @@ public class DroidTermsExampleContract implements BaseColumns {
      * The path for terms
      */
     public static final String PATH_TERMS = "terms";
+    
 
     /**
      * This is the {@link Uri} used to get a full list of terms and definitions.
